@@ -7,6 +7,19 @@
         {
             "sourceName": "18ck",
             "sourceUrl": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18ck.json"
+        },
+       
+        {
+            "sourceName": "💚无邪优选仓🍭热门推荐🍭",
+            "sourceUrl": "https://gitea.moe/wxrj/wxrj/raw/branch/main/yx.txt"
+        },
+        {
+            "sourceName": "💛无邪聚合仓🍭聚合全网🍭",
+            "sourceUrl": "https://gitea.moe/wxrj/wxrj/raw/branch/main/jh.txt"
+        },
+        {
+            "sourceName": "💜无邪🍭24.12.02更新🍭",
+            "sourceUrl": "无邪"
         }
     ]
 }
